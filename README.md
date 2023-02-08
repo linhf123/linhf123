@@ -30,5 +30,5 @@ I'm Linhf.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=any1024" alt="GitHub stats" align="left" width="46%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" alt="Top Langs" align="right" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=any1024&langs_count=5" alt="Top Langs" align="right" width="46%"/>
 </div>
