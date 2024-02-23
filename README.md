@@ -8,9 +8,6 @@ I'm Linhf.
 - ✍️ 正在在学习 Vite、Docker 。
 - 🤩 喜欢 [探索 Github](https://github.com/explore) 上有趣项目，可以看看我整理的 [Stars](https://github.com/any1024?tab=stars)。
 
-![My GitHub stars](https://img.shields.io/github/stars/any1024)
-![My GitHub show](https://visitor-badge.glitch.me/badge?page_id=any1024.any1024)
-
 **Languages and Tools** 
 
 <code><a href="https://tc39.es/zh-Hans/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
@@ -29,6 +26,6 @@ I'm Linhf.
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=any1024" alt="GitHub stats" align="left" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api?username=linhf123" alt="GitHub stats" align="left" width="46%">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=any1024&langs_count=5" alt="Top Langs" align="right" width="46%"/>
 </div>
