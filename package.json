@@ -1,0 +1,31 @@
+{
+  "name": "linhf123",
+  "version": "1.0.0",
+  "description": "I'm Linhf.",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "files": [
+    "bin/index.js",
+    "index.js",
+    "Linhf123"
+  ],
+  "scripts": {
+    "dev": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhf123/linhf123.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "linhf123",
+    "email": "linhuifengweb@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@wuxh/utils": "^1.0.0",
+    "chalk": "^4.1.2",
+    "mri": "^1.2.0",
+    "open": "^8.4.0"
+  }
+}
