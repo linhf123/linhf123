@@ -2,10 +2,10 @@
 
 I'm Linhf.
 
-前端开发，在杭州参加工作。喜欢参与开源，通常活跃在 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)、[oceanbase-design](https://github.com/oceanbase/oceanbase-design)、[Ant Design](https://github.com/ant-design)、
+前端开发，在杭州参加工作。喜欢参与开源，通常活跃在 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)、[oceanbase-design](https://github.com/oceanbase/oceanbase-design)、[Ant Design](https://github.com/ant-design)
 
-- 👨‍💻 主要使用 React、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
-- ✍️ 正在在学习 Vite、Docker 。
+- 👨‍💻 主要使用 React、vue、TypeScript、[antd](https://ant.design/) 相关技术进行日常开发工作。
+- ✍️ 正在学习如何收一个 AI Agent 当小弟。
 - 🤩 喜欢 [探索 Github](https://github.com/explore) 上有趣项目，可以看看我整理的 [Stars](https://github.com/any1024?tab=stars)。
 
 **Languages and Tools** 
