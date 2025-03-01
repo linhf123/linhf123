@@ -2,7 +2,7 @@
 
 I'm Linhf.
 
-前端开发，在杭州参加工作。喜欢参与开源，通常活跃在 [Ant Design](https://github.com/ant-design)、[react-component](https://github.com/react-component)、[Template-pro](https://github.com/template-pro)
+前端开发，在杭州参加工作。喜欢参与开源，通常活跃在 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue)、[oceanbase-design](https://github.com/oceanbase/oceanbase-design)、[Ant Design](https://github.com/ant-design)、
 
 - 👨‍💻 主要使用 React、TypeScript、[antd](https://ant.design/)、[Electron](https://www.electronjs.org) 相关技术进行日常开发工作。
 - ✍️ 正在在学习 Vite、Docker 。
